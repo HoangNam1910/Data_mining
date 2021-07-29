@@ -1,0 +1,11 @@
+﻿Giới tính(GT),Tuổi(T),Năng lực làm việc (NL),Đã lập gia đình (LGD),Thu nhập (TN),Thăng chức (TC)
+Nữ,20..25,Giỏi,Rồi,Rất cao,Có
+Nam,20..25,Khá ,Chưa,Khá,Không
+Nữ,26..30,Giỏi,Chưa,Khá,Có
+Nữ,31..40,T.Bình,Chưa,T.Bình,Có
+Nam,26..30,T.Bình,Rồi,Rất cao,Không
+Nữ,26..30,Khá ,Chưa,Cao,Không
+Nữ,31..40,Khá ,Chưa,T.Bình,Không
+Nam,26..30,Khá ,Rồi,Cao,Có
+Nữ,>40,Giỏi,Rồi,T.Bình,Không
+Nữ,26..30,Giỏi,Chưa,Khá,Có
